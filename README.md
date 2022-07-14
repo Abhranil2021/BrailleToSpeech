@@ -1,3 +1,3 @@
 # BrailleToSpeech
 
-Github repository for the project "Braille To Speech"(ongoing as of 13 April 2022), done by the Electronics Club, IIT Guwahati. 
+Github repository for the project "Braille To Speech", done by the Electronics Club, IIT Guwahati. 
